@@ -38,3 +38,19 @@ input {
     font-size: 50px;
     text-align: center;
 }
+
+div.buttons{
+    width: 500px;
+}
+
+button.usun{
+    flex: left;
+}
+
+button.nieusun{
+    flex: right;
+}
+
+h3{
+    text-align: center;
+}
