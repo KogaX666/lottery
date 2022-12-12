@@ -72,6 +72,7 @@ if($id != null && $delete == null){
 </div>
 
     <a href="add.php"><button>Dodaj z pliku</button></a>
+    <a href="talony.php" target="_blank"><button>Talony</button></a>
 
 </body>
 </html>
